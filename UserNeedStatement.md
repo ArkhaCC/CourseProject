@@ -1,8 +1,0 @@
-                                User Need Statement
-	The purpose of this project is to develop an app capable of organizing and storing recipes found on various websites, so the user can focus their time in the kitchen, instead of navigating clunky websites. Users will accomplish this through a series a of simple commands in a streamlined interface. The desired features are: Individual user profiles, and method to 'print' recipes from websites, and the ability for users to 'tag' recipes with descriptors to help the user better sort the recipes into lists for the convenience of the user.
-	
-	The individual user profile will be the method through which all saved content will be stored for use at any time by the user, to include at launch: recipes, 'tags', and lists. This will allow the user to draw from a repository of saved recipes, which have been sorted into lists by the use of the user generated 'tags'.
-	
-	User generated 'tags' will be short descriptors which the user can assign to individual recipes for easy recall at a later date. Through implementation of a simple search based on a 'tag' (easy, filling, fancy, etc.), the user will be able to call the perfect recipe for the moment, within seconds. With multiple 'tags' able to be applied to recipes, the user can have a truly customizable experience with their new digital cookbook.
-	
-	Finally, and most importantly, this application will utilize a function already built into most of the top cooking websites on the internet. The 'Print' function. The application will use this built in functionality to print a digital copy into the user's profile, saving the recipe for their use far into the future!

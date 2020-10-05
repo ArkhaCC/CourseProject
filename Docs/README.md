@@ -1,21 +1,8 @@
-#  Headline 1
-##  Headline 2
-###  Headline 3
-Paragraph 1 of text.
+## The Cookbook App
 
-Next Paragraph.
 
-## Headline lower down
-Emphasis *is* **fun**. ~strike through~ , code view:
-'Console.WriteLine("Test")
+#Disclaimer: This application is very much a work in progress. This application has been my introduction to cradle to grave application design. I do intend to continue to tinker with this as time goes on, and I become more proficient.
 
-[A link to google] (http://google.com)
+This application is being designed to give the user a repository through which to store all of their favorite online recipes from a variety of sources, to give the user a way to bypass all those annoying advertisements and "story" sections that are so prevalent on typical cooking websites. The intention is to give the user a way to **save** **organize** and **access** their recipes without having to wade through the muck. The goal hear is to allow the user to focus on cooking.
 
-1. This is first
-2. This is second
-3. This is third
-
-- an item
-- another item
-
-|  Header  |  
+  
